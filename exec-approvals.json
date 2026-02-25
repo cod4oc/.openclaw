@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "socket": {
+    "path": "/home/codaisa/.openclaw/exec-approvals.sock",
+    "token": "gX-QZr7ZOMRnMwaWzw1rLRU03sV4hzDB"
+  },
+  "defaults": {},
+  "agents": {}
+}
