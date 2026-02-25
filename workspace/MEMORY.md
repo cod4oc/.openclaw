@@ -8,6 +8,7 @@
 - Nome: Sá
 - Fala português
 - Iniciamos em 2026-02-25
+- Cachorro: **Kayn** 🐶
 
 ## Estratégia de Trabalho
 - **Sempre registrar tasks e agendamentos no Google Calendar** via `gog calendar`

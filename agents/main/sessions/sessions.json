@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "e1592442-865c-4f7f-b982-6545aa5ed9e4",
-    "updatedAt": 1772044354860,
+    "updatedAt": 1772045799395,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -358,7 +358,7 @@
       "accountId": "default"
     },
     "sessionId": "95e3b4ce-aed3-460c-bab3-c80cc1b8d170",
-    "updatedAt": 1772044409870,
+    "updatedAt": 1772045814413,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -433,7 +433,7 @@
     "contextTokens": 200000,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1772044355641,
+      "generatedAt": 1772045800171,
       "sessionId": "95e3b4ce-aed3-460c-bab3-c80cc1b8d170",
       "sessionKey": "agent:main:telegram:direct:6528805240",
       "provider": "anthropic",
@@ -446,9 +446,9 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 23512,
+        "chars": 23502,
         "projectContextChars": 12155,
-        "nonProjectContextChars": 11357
+        "nonProjectContextChars": 11347
       },
       "injectedWorkspaceFiles": [
         {
@@ -676,11 +676,11 @@
         ]
       }
     },
-    "inputTokens": 10,
-    "outputTokens": 3021,
-    "cacheRead": 50397,
-    "cacheWrite": 148,
-    "totalTokens": 50555,
+    "inputTokens": 18,
+    "outputTokens": 261,
+    "cacheRead": 60338,
+    "cacheWrite": 47080,
+    "totalTokens": 53844,
     "totalTokensFresh": true
   }
 }
