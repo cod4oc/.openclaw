@@ -9,6 +9,9 @@
 - Fala português
 - Iniciamos em 2026-02-25
 - Cachorro: **Kayn** 🐶
+- Idade: 24 anos
+- Mora com os pais (Fortaleza)
+- Considerando viajar para Tailândia em abril 2026 ou pegar aluguel
 
 ## Estratégia de Trabalho
 - **Sempre registrar tasks e agendamentos no Google Calendar** via `gog calendar`
