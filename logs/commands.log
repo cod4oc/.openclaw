@@ -2,3 +2,4 @@
 {"timestamp":"2026-02-25T06:04:56.736Z","action":"new","sessionKey":"agent:main:main","senderId":"openclaw-control-ui","source":"webchat"}
 {"timestamp":"2026-02-25T06:10:14.399Z","action":"new","sessionKey":"agent:main:main","senderId":"openclaw-control-ui","source":"webchat"}
 {"timestamp":"2026-02-25T06:16:26.964Z","action":"new","sessionKey":"agent:main:main","senderId":"openclaw-control-ui","source":"webchat"}
+{"timestamp":"2026-03-03T18:56:44.998Z","action":"new","sessionKey":"agent:main:telegram:direct:6528805240","senderId":"6528805240","source":"telegram"}
