@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "e1592442-865c-4f7f-b982-6545aa5ed9e4",
-    "updatedAt": 1772564268621,
+    "updatedAt": 1773808248218,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -349,7 +349,7 @@
   },
   "agent:main:telegram:direct:6528805240": {
     "sessionId": "354df68e-6383-4a1b-8847-c62f1d8b7f7e",
-    "updatedAt": 1772564282212,
+    "updatedAt": 1773808265953,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -445,7 +445,7 @@
     "contextTokens": 200000,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1772564269428,
+      "generatedAt": 1773808249209,
       "sessionId": "354df68e-6383-4a1b-8847-c62f1d8b7f7e",
       "sessionKey": "agent:main:telegram:direct:6528805240",
       "provider": "anthropic",
@@ -692,11 +692,11 @@
         ]
       }
     },
-    "inputTokens": 10,
-    "outputTokens": 465,
-    "cacheRead": 20622,
-    "cacheWrite": 169,
-    "totalTokens": 20801,
+    "inputTokens": 18,
+    "outputTokens": 513,
+    "cacheRead": 21300,
+    "cacheWrite": 23075,
+    "totalTokens": 23083,
     "totalTokensFresh": true
   },
   "telegram:slash:6528805240": {
