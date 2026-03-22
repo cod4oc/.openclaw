@@ -12,8 +12,9 @@
   },
   "usageStats": {
     "anthropic:default-claude-token": {
-      "lastUsed": 1773808265949,
-      "errorCount": 0
+      "lastUsed": 1774200760018,
+      "errorCount": 0,
+      "lastFailureAt": 1774139341711
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "e1592442-865c-4f7f-b982-6545aa5ed9e4",
-    "updatedAt": 1773808248218,
+    "updatedAt": 1774200748070,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -349,7 +349,7 @@
   },
   "agent:main:telegram:direct:6528805240": {
     "sessionId": "354df68e-6383-4a1b-8847-c62f1d8b7f7e",
-    "updatedAt": 1773808265953,
+    "updatedAt": 1774200760021,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -362,7 +362,7 @@
     "lastTo": "telegram:6528805240",
     "lastAccountId": "default",
     "origin": {
-      "label": "Elzevir Sá id:6528805240",
+      "label": "telegram:6528805240",
       "provider": "telegram",
       "surface": "telegram",
       "chatType": "direct",
@@ -445,7 +445,7 @@
     "contextTokens": 200000,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1773808249209,
+      "generatedAt": 1774200748899,
       "sessionId": "354df68e-6383-4a1b-8847-c62f1d8b7f7e",
       "sessionKey": "agent:main:telegram:direct:6528805240",
       "provider": "anthropic",
@@ -693,11 +693,11 @@
       }
     },
     "inputTokens": 18,
-    "outputTokens": 513,
-    "cacheRead": 21300,
-    "cacheWrite": 23075,
-    "totalTokens": 23083,
-    "totalTokensFresh": true
+    "outputTokens": 283,
+    "cacheRead": 91313,
+    "cacheWrite": 91610,
+    "totalTokensFresh": true,
+    "totalTokens": 91618
   },
   "telegram:slash:6528805240": {
     "origin": {
