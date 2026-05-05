@@ -1,7 +1,7 @@
 {
   "agent:main:main": {
     "sessionId": "e1592442-865c-4f7f-b982-6545aa5ed9e4",
-    "updatedAt": 1774200748070,
+    "updatedAt": 1777937281066,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -349,7 +349,7 @@
   },
   "agent:main:telegram:direct:6528805240": {
     "sessionId": "354df68e-6383-4a1b-8847-c62f1d8b7f7e",
-    "updatedAt": 1774200760021,
+    "updatedAt": 1777937334666,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
@@ -362,7 +362,7 @@
     "lastTo": "telegram:6528805240",
     "lastAccountId": "default",
     "origin": {
-      "label": "telegram:6528805240",
+      "label": "Elzevir Sá id:6528805240",
       "provider": "telegram",
       "surface": "telegram",
       "chatType": "direct",
@@ -445,7 +445,7 @@
     "contextTokens": 200000,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1774200748899,
+      "generatedAt": 1777937281868,
       "sessionId": "354df68e-6383-4a1b-8847-c62f1d8b7f7e",
       "sessionKey": "agent:main:telegram:direct:6528805240",
       "provider": "anthropic",
@@ -458,8 +458,8 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 23730,
-        "projectContextChars": 12155,
+        "chars": 23870,
+        "projectContextChars": 12295,
         "nonProjectContextChars": 11575
       },
       "injectedWorkspaceFiles": [
@@ -523,8 +523,8 @@
           "name": "MEMORY.md",
           "path": "/home/codaisa/.openclaw/workspace/MEMORY.md",
           "missing": false,
-          "rawChars": 527,
-          "injectedChars": 527,
+          "rawChars": 667,
+          "injectedChars": 667,
           "truncated": false
         }
       ],
@@ -692,12 +692,12 @@
         ]
       }
     },
-    "inputTokens": 18,
-    "outputTokens": 283,
-    "cacheRead": 91313,
-    "cacheWrite": 91610,
+    "inputTokens": 58,
+    "outputTokens": 1750,
+    "cacheRead": 657338,
+    "cacheWrite": 4832,
     "totalTokensFresh": true,
-    "totalTokens": 91618
+    "totalTokens": 96341
   },
   "telegram:slash:6528805240": {
     "origin": {
